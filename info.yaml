@@ -24,7 +24,7 @@ documentation:
   author:       "Cristian"      # Your name
   title:        "Circuito reloj 7 segmentos"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "Circuito (No mío) En el cual se muestra en display los números del 0 al 9 en 7 segmentos"      # Short description of what your project does
+  description:  "Circuito En el cual se muestra en display los números del 0 al 9 en 7 segmentos"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
